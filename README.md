@@ -1,3 +1,3 @@
-## Hey, I'm Avneesh :) 
+## Hey, I'm Avneesh 👋
 
-[Feel free to check out my website to learn more about me](kingofsunnyvale.com)
+[Where does this link go ???](kingofsunnyvale.com)
